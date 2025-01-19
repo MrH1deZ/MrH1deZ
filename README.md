@@ -94,9 +94,9 @@
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/tauseedzaman">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tauseedzaman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tauseedzaman&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/MrH1deZ">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrH1deZ&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrH1deZ&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 

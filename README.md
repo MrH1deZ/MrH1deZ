@@ -50,14 +50,14 @@
 
 # 🌟 Hello, World! 👋
 
-- **🔭 Currently:** Full-time freelancer diving into **AI** and **Web3**! 🚀
+- **🔭 Currently:** Full-Time SEO Expert ** Linux SysAdmin ** Front-End Developer! 🚀
 - **🌱 Learning:**  Always exploring the latest tech trends, including AI, Web3, and cybersecurity!
 - **👯 Collaboration:** Looking to team up with Laravel developers—let’s create something great!
 - **💬 Backend Guru:** Ask me anything about backend development!
 - **🕵️‍♂️ Night Owl:** Hacking away under the moonlight—solving puzzles and pushing boundaries.
-- **📫 Connect:** Reach me at [tauseedzaman@pm.me](mailto:tauseedzaman@pm.me).
-- **😄 Pronouns:** Tauseedzaman
-- **⚡ Fun Fact:** Proud “Father of Web 2.0” with a smile! 😁
+- **📫 Connect:** Reach me at [office@mrhidez.com](mailto:office@mrhidez.com).
+- **😄 Pronouns:** Mr.H1deZ
+- **⚡ Fun Fact:** Pround lvl 9 on FaceIT 😁
 
 ### Tech Stack
 

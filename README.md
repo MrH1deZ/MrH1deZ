@@ -3,32 +3,11 @@
 ###
 
 <br clear="both">
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/MrH1deZ/count.svg?"  />
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
 
 ###
 
@@ -51,22 +30,25 @@
 #
 
 - **🔭 Currently:** Full-Time SEO Expert ** Linux SysAdmin ** Front-End Developer! 🚀
-- **🌱 Learning:**  Always exploring the latest tech trends, including AI, Web3, and cybersecurity!
-- **👯 Collaboration:** Looking to team up with Laravel developers—let’s create something great!
-- **💬 Backend Guru:** Ask me anything about backend development!
-- **🕵️‍♂️ Night Owl:** Hacking away under the moonlight—solving puzzles and pushing boundaries.
+- **🌱 Learning:**  Always exploring the latest tech trends, SEO, Marketing and cybersecurity!
+- **👯 Collaboration:** Looking to team up with cool guys who need a Sysadmin / SEO / Marketing Expert to build something great!
+- **💬 Ask me anything:** Ask me anything about Linux, SEO, Front/Back - End !
+- **🕵️‍♂️ Night Owl:** Love playing games, making some stuff, or setting up something on my servers.
 - **📫 Connect:** Reach me at [office@mrhidez.com](mailto:office@mrhidez.com).
 - **😄 Pronouns:** Mr.H1deZ
 - **⚡ Fun Fact:** Pround lvl 9 on FaceIT 😁
 
 ### Tech Stack
+
+<a href="#"><img align="left" alt="html" title="html" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+<a href="#"><img align="left" alt="css" title="css" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
 <a href="#"><img align="left" alt="bootstrap" title="bootstrap" width="21px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-icon.svg" /></a>
 <a href="#"><img align="left" alt="python" title="python" width="21px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></a>
 <a href="#"><img align="left" alt="linux" title="linux" width="21px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" /></a>
 <a href="#"><img align="left" alt="git bash" title="git bash" width="21px" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" /></a>
 <a href="#"><img align="left" alt="bash" title="bash" width="25px" src="https://github.com/user-attachments/assets/c63d801e-6268-4ffb-a68f-05a0975300f1" /></a>
 <a href="laravel.com"><img align="left" alt="laravel" title="laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
-<a href="php.net"><img align="left" alt="php" title="php" width="21px" src="https://github.com/user-attachments/assets/c321c828-bff1-437f-80b3-425843d26785" /></a>
+<a href="php.net"><img align="left" alt="php" title="php" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
 <a href="#"><img align="left" alt="mysql" title="mysql" width="21px" src="https://github.com/user-attachments/assets/de080acd-91dc-4687-b905-92087eece723" /></a>
 <a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="#"><img align="left" alt="npm" title="npm" width="29px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" /></a>

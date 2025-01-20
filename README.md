@@ -32,7 +32,7 @@
 - **🕵️‍♂️ Night Owl:** Love playing games, making some stuff, or setting up something on my servers.
 - **📫 Connect:** Reach me at [office@mrhidez.com](mailto:office@mrhidez.com).
 - **😄 Pronouns:** Mr.H1deZ
-- **⚡ Fun Fact:** Pround lvl 9 on FaceIT 😁
+- **⚡ Fun Fact:** Proud lvl 9 on FaceIT 😁
 
 ### Tech Stack
 

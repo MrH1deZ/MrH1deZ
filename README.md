@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is MrH1deZ and I'm a  SysAdmin / SEO Expert / Front-End Developer.</h2>
+<h2 align="center">Hi 👋! My name is Deyan and I'm a  SysAdmin / SEO Expert / Front-End Developer.</h2>
 
 ###
 
